@@ -2,7 +2,7 @@
 
 This is a continuation of the program `algebra-simplifier-and-evaluator` written in Scheme.
 Here is the link to the program
-            https://github.com/xsquared93/algebra-simplifier-and-evaluator
+            https://github.com/xsquared93/algebra-simplifier-and-evaluator.
 
 # built with
     - SBCL; and
